@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Denis
  */
-public class SubstringSolver {
+public class SubstringLoopSolver {
     public static String getSmallestAndLargest(String s, int k) {
         String smallest = "";
         String largest = "";
